@@ -52,7 +52,7 @@ Email: [billyten0208@gmail.com](mailto:billyten0208@gmail.com)
 
 ---
 
-## **田秉立（Ping-Li／Billy Tien）**
+## **田秉立（Ping-Li Tien）**
 
 台灣桃園
 元智大學 資訊工程學系 學生
@@ -81,9 +81,14 @@ C++、C#、JavaScript
 
 ### **目前專案**
 
-**ISPD**
+**ISPD 相關程式設計專題（EDA 與演算法導向)**
 
-ISPD（International Symposium on Physical Design）是專注於晶片實體設計（Physical Design）的國際研討會與競賽，主題涵蓋元件配置（placement）、繞線（routing）、時序與效能最佳化等 EDA 核心問題；其程式競賽會提供大型真實 IC 設計資料，參賽者需以 C++ 等語言實作啟發式演算法，在效能、面積與功耗限制下優化設計品質，具有高度工程實務與產業導向，對未來投入半導體與 EDA 相關領域相當有幫助。
+我目前正在進行一項受 ISPD（International Symposium on Physical Design，國際實體設計研討會）競賽啟發的程式設計專題，該競賽以電子設計自動化（EDA）領域中的演算法挑戰聞名。
+
+此類專題著重於設計與實作高效率演算法，以處理大規模積體電路設計資料，核心重點包含效能最佳化、設計限制條件的處理，以及適用於真實工程情境的高效能 C++ 實作。
+
+透過這個專題，我將持續強化自己在演算法最佳化、資料處理效率，以及系統化問題分析與解決能力方面的實力
+
 
 ---
 
